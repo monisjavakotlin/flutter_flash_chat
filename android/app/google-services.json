@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "660691497251",
+    "firebase_url": "https://flashchat-69930.firebaseio.com",
+    "project_id": "flashchat-69930",
+    "storage_bucket": "flashchat-69930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660691497251:android:6205f04dbe3b8aa8e25c96",
+        "android_client_info": {
+          "package_name": "com.monis.flutter_flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660691497251-afr68trnjti7deijdgpkc5a31vu2hci0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqIKxAI_5-p-ieDclmubocAG8Kw7IDM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660691497251-afr68trnjti7deijdgpkc5a31vu2hci0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
